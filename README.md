@@ -26,7 +26,7 @@
 <a href="https://instagram.com/Luisgmr01" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-008B8B?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px"</a>
 <!--   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px"</a> -->
-<a href = "mailto:cmp.1a.contato@luisgmr.com"> 
+<a href = "mailto:contato@luisgmr.com"> 
   <img src="https://img.shields.io/badge/-Email-008B8B?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px" target="_blank"></a>
 <!--   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/Luisgmr01/" target="_blank">
