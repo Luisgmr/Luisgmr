@@ -11,13 +11,15 @@
 
 <div align="center"><br>
   <img align="center" alt="Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="IntelliJ" height="140" width="160" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="IntelliJ" height="140" width="55" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg">
   <img align="center" alt="Spring" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Python" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="MySQL" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<!--   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="HTML" height="75" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="75" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">	
+  <img align="center" alt="Angular" height="70" width="70" src="https://blog.ninja-squad.com/assets/images/angular_gradient.png">
+  <img align="center" alt="Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">	
 <!--   <img align="center" alt="CSS" height="75" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> -->
 </div>
 
