@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=Luis+Gustavo+Miranda+Rodrigues;Desenvolvedor+Full-stack;Análise+e+Desenvolvimento+de+Sistemas+-+IFSC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=Luis+Gustavo+Miranda;Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
 <!-- [![Gráfico](https://github-readme-activity-graph.cyclic.app/graph?username=Luisgmr&bg_color=0d1117&color=48D1CC&line=48D1CC&point=008B8B&area=true&hide_border=true)]() -->
 
@@ -26,9 +26,6 @@
 
 <br>
 <div align="center"> 
-<a href="https://instagram.com/Luisgmr01" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-008B8B?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px"</a>
-<!--   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px"</a> -->
 <a href = "mailto:contato@luisgmr.com"> 
   <img src="https://img.shields.io/badge/-Email-008B8B?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px" target="_blank"></a>
 <!--   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px" target="_blank"></a> -->
