@@ -11,7 +11,7 @@
 
 <div align="center"><br>
   <img align="center" alt="Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Kotlin" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Kotlin" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   <img align="center" alt="IntelliJ" height="140" width="55" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg">
   <img align="center" alt="Android" height="140" width="65" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Spring" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
