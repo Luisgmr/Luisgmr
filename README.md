@@ -2,7 +2,7 @@
 <!-- aaa -->
 <!-- [![Gráfico](https://github-readme-activity-graph.cyclic.app/graph?username=Luisgmr&bg_color=0d1117&color=48D1CC&line=48D1CC&point=008B8B&area=true&hide_border=true)]() -->
 
-<h3>Desenvolvedor de software especializado em backend e mobile, com foco em Java e Kotlin, frameworks Android e Spring, API REST e arquiteturas MVC, MVVM, MVP e microsserviços. Tenho experiência no desenvolvimento de aplicações modernas utilizando Jetpack Compose, além de atuar como líder de desenvolvimento no GOOAT, um ecossistema para centros esportivos e jogadores.</h3>
+<p>Desenvolvedor de software especializado em backend e mobile, com foco em Java e Kotlin, frameworks Android e Spring, API REST e arquiteturas MVC, MVVM, MVP e microsserviços. Tenho experiência no desenvolvimento de aplicações modernas utilizando Jetpack Compose, além de atuar como líder de desenvolvimento no GOOAT, um ecossistema para centros esportivos e jogadores.</p>
 
 <br/>
 
