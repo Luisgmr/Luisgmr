@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&width=1000&lines=Luis+Gustavo+Miranda;Desenvolvedor+Mobile;Desenvolvedor+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&width=1000&lines=Luis+Gustavo+Miranda;Desenvolvedor+Java+e+Kotlin)](https://git.io/typing-svg)
 <!-- aaa -->
 <!-- [![Gráfico](https://github-readme-activity-graph.cyclic.app/graph?username=Luisgmr&bg_color=0d1117&color=48D1CC&line=48D1CC&point=008B8B&area=true&hide_border=true)]() -->
 
