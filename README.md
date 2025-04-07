@@ -49,6 +49,5 @@ Sou um desenvolvedor especializado em backend e mobile. Atualmente atuo como des
 
 ##
 
-![](https://github-readme-stats.vercel.app/api?username=Luisgmr&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Luisgmr&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgmr&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
