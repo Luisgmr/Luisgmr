@@ -1,5 +1,5 @@
 ## Luis Gustavo Miranda
-![GitHub](https://img.shields.io/badge/Principal%20stack-%20Spring%20and%20Next.js-red) ![](https://komarev.com/ghpvc/?username=Luisgmr&color=006bed)
+![GitHub](https://img.shields.io/badge/Principal%20stack-%20Spring%20and%20React-red) ![](https://komarev.com/ghpvc/?username=Luisgmr&color=006bed)
 <img src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png" alt="Ilustração de um personagem" min-width="250px" max-width="230px" width="230px" align="right">
 
 <p align="left"> 
